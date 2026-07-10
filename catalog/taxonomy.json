@@ -1,0 +1,59 @@
+{
+  "categories": [
+    {
+      "id": "skill-authoring",
+      "label": "Skill Authoring",
+      "description": "Creating, refining, reviewing, validating, and maintaining skills."
+    },
+    {
+      "id": "project-planning",
+      "label": "Project Planning",
+      "description": "Roadmaps, implementation plans, milestones, issue plans, and task breakdowns."
+    },
+    {
+      "id": "repo-readiness",
+      "label": "Repo Readiness",
+      "description": "GitHub, release, CI, public repo, and project readiness skills."
+    },
+    {
+      "id": "npm-publishing",
+      "label": "npm Publishing",
+      "description": "npm package metadata, exports, type declarations, build outputs, changelogs, and publishing readiness."
+    },
+    {
+      "id": "docs-seo",
+      "label": "Docs and SEO",
+      "description": "README, documentation, demos, metadata, structured data, and discoverability."
+    },
+    {
+      "id": "frontend-a11y",
+      "label": "Frontend Accessibility",
+      "description": "Accessibility, semantic HTML, ARIA, keyboard navigation, focus states, and WCAG-style review."
+    },
+    {
+      "id": "ui-ux-polish",
+      "label": "UI/UX Polish",
+      "description": "Visual quality, motion, interactions, demo polish, landing pages, and presentation quality."
+    },
+    {
+      "id": "code-review",
+      "label": "Code Review",
+      "description": "Static review, refactoring, dependencies, tests, maintainability, bundle size, and import boundaries."
+    },
+    {
+      "id": "content-portfolio",
+      "label": "Content and Portfolio",
+      "description": "Case studies, launch posts, recruiter-facing summaries, portfolio pages, and social content."
+    },
+    {
+      "id": "research-synthesis",
+      "label": "Research Synthesis",
+      "description": "Comparing sources, researching tools, producing decision briefs, and summarizing technical tradeoffs."
+    },
+    {
+      "id": "maintenance",
+      "label": "Maintenance",
+      "description": "Cleanup, migrations, catalog upkeep, naming normalization, and repo housekeeping."
+    }
+  ]
+}
