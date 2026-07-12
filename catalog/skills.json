@@ -1,3 +1,39 @@
 {
-  "skills": []
+  "skills": [
+    {
+<<<<<<< ours
+      "name": "ui-design-direction-builder",
+      "path": "skills/ui-ux-polish/ui-design-direction-builder/SKILL.md",
+      "category": "ui-ux-polish",
+      "task_type": "planner",
+      "tags": [
+        "art-direction",
+        "design-tokens",
+        "frontend",
+        "interaction-design",
+        "ui-design",
+        "visual-system"
+      ],
+      "status": "draft",
+      "side_effects": "none",
+      "summary": "Builds a coherent, implementation-ready visual and interaction direction for a web interface."
+=======
+      "name": "interface-state-coverage-review",
+      "path": "skills/ui-ux-polish/interface-state-coverage-review/SKILL.md",
+      "category": "ui-ux-polish",
+      "task_type": "review",
+      "tags": [
+        "ui",
+        "ux",
+        "interface-states",
+        "user-flows",
+        "feedback",
+        "error-handling"
+      ],
+      "status": "draft",
+      "side_effects": "none",
+      "summary": "Reviews interfaces and user flows for missing, inconsistent, or poorly communicated states."
+>>>>>>> theirs
+    }
+  ]
 }
