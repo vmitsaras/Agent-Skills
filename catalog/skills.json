@@ -2,6 +2,7 @@
   "skills": [
     {
 <<<<<<< ours
+<<<<<<< ours
       "name": "ui-design-direction-builder",
       "path": "skills/ui-ux-polish/ui-design-direction-builder/SKILL.md",
       "category": "ui-ux-polish",
@@ -33,6 +34,24 @@
       "status": "draft",
       "side_effects": "none",
       "summary": "Reviews interfaces and user flows for missing, inconsistent, or poorly communicated states."
+>>>>>>> theirs
+=======
+      "name": "repo-public-profile-polish",
+      "path": "skills/repo-readiness/repo-public-profile-polish/SKILL.md",
+      "category": "repo-readiness",
+      "task_type": "review",
+      "tags": [
+        "github",
+        "readme",
+        "repository-metadata",
+        "screenshots",
+        "demos",
+        "portfolio",
+        "first-impression"
+      ],
+      "status": "draft",
+      "side_effects": "network",
+      "summary": "Reviews a public repository's README, metadata, screenshots, demo links, and overall first-impression quality."
 >>>>>>> theirs
     }
   ]

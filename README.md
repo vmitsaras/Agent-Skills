@@ -102,6 +102,7 @@ Primary categories:
 
 | Skill | Category | Type | Summary |
 |---|---|---|---|
+| [repo-public-profile-polish](skills/repo-readiness/repo-public-profile-polish/SKILL.md) | repo-readiness | review | Reviews a public repository's README, metadata, screenshots, demo links, and overall first-impression quality. |
 
 <<<<<<< ours
 | [ui-design-direction-builder](skills/ui-ux-polish/ui-design-direction-builder/SKILL.md) | ui-ux-polish | planner | Builds a coherent, implementation-ready visual and interaction direction for a web interface. |
