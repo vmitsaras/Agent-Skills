@@ -3,6 +3,7 @@
     {
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
       "name": "ui-design-direction-builder",
       "path": "skills/ui-ux-polish/ui-design-direction-builder/SKILL.md",
       "category": "ui-ux-polish",
@@ -52,6 +53,21 @@
       "status": "draft",
       "side_effects": "network",
       "summary": "Reviews a public repository's README, metadata, screenshots, demo links, and overall first-impression quality."
+>>>>>>> theirs
+=======
+      "name": "repo-next-steps-review",
+      "path": "skills/repo-readiness/repo-next-steps-review/SKILL.md",
+      "category": "repo-readiness",
+      "task_type": "review",
+      "tags": [
+        "repo-review",
+        "project-health",
+        "next-steps",
+        "planning"
+      ],
+      "status": "draft",
+      "side_effects": "none",
+      "summary": "Reviews a repository's current state and recommends prioritized next steps."
 >>>>>>> theirs
     }
   ]

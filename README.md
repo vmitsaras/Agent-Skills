@@ -105,9 +105,14 @@ Primary categories:
 | [repo-public-profile-polish](skills/repo-readiness/repo-public-profile-polish/SKILL.md) | repo-readiness | review | Reviews a public repository's README, metadata, screenshots, demo links, and overall first-impression quality. |
 
 <<<<<<< ours
+<<<<<<< ours
 | [ui-design-direction-builder](skills/ui-ux-polish/ui-design-direction-builder/SKILL.md) | ui-ux-polish | planner | Builds a coherent, implementation-ready visual and interaction direction for a web interface. |
 =======
 | [interface-state-coverage-review](skills/ui-ux-polish/interface-state-coverage-review/SKILL.md) | ui-ux-polish | review | Reviews interfaces and user flows for missing, inconsistent, or poorly communicated states. |
+
+>>>>>>> theirs
+=======
+| [repo-next-steps-review](skills/repo-readiness/repo-next-steps-review/SKILL.md) | repo-readiness | review | Reviews a repository's current state and recommends prioritized next steps. |
 
 >>>>>>> theirs
 <!-- Add skills here. Keep rows sorted alphabetically by skill name. -->
