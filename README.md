@@ -102,24 +102,15 @@ Primary categories:
 
 | Skill | Category | Type | Summary |
 |---|---|---|---|
-| [repo-public-profile-polish](skills/repo-readiness/repo-public-profile-polish/SKILL.md) | repo-readiness | review | Reviews a public repository's README, metadata, screenshots, demo links, and overall first-impression quality. |
-
-<<<<<<< ours
-<<<<<<< ours
-<<<<<<< ours
-| [ui-design-direction-builder](skills/ui-ux-polish/ui-design-direction-builder/SKILL.md) | ui-ux-polish | planner | Builds a coherent, implementation-ready visual and interaction direction for a web interface. |
-=======
+| [docs-discoverability-audit](skills/docs-seo/docs-discoverability-audit/SKILL.md) | docs-seo | review | Audits technical documentation for navigation, information architecture, internal linking, content findability, duplication, and technical SEO. |
 | [interface-state-coverage-review](skills/ui-ux-polish/interface-state-coverage-review/SKILL.md) | ui-ux-polish | review | Reviews interfaces and user flows for missing, inconsistent, or poorly communicated states. |
-
->>>>>>> theirs
-=======
+| [layout-art-direction](skills/ui-ux-polish/layout-art-direction/SKILL.md) | ui-ux-polish | review | Reviews or develops intentional graphic layout and art direction using hierarchy, composition, rhythm, typography, imagery, and responsive behavior. |
+| [project-plan-reconciler](skills/project-planning/project-plan-reconciler/SKILL.md) | project-planning | review | Reconciles project plans with repository progress and produces a corrected execution sequence. |
 | [repo-next-steps-review](skills/repo-readiness/repo-next-steps-review/SKILL.md) | repo-readiness | review | Reviews a repository's current state and recommends prioritized next steps. |
-
->>>>>>> theirs
-=======
+| [repo-public-profile-polish](skills/repo-readiness/repo-public-profile-polish/SKILL.md) | repo-readiness | review | Reviews a public repository's README, metadata, screenshots, demo links, and overall first-impression quality. |
 | [skill-quality-audit](skills/skill-authoring/skill-quality-audit/SKILL.md) | skill-authoring | review | Audits an Agent Skill for routing clarity, scope, executability, safety, portability, and repository consistency. |
+| [ui-design-direction-builder](skills/ui-ux-polish/ui-design-direction-builder/SKILL.md) | ui-ux-polish | planner | Builds a coherent, implementation-ready visual and interaction direction for a web interface. |
 
->>>>>>> theirs
 <!-- Add skills here. Keep rows sorted alphabetically by skill name. -->
 
 ## Creating a new skill

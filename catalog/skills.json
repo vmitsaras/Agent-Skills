@@ -1,91 +1,10 @@
-{
-  "skills": [
-    {
-<<<<<<< ours
-<<<<<<< ours
-<<<<<<< ours
-<<<<<<< ours
-      "name": "ui-design-direction-builder",
-      "path": "skills/ui-ux-polish/ui-design-direction-builder/SKILL.md",
-      "category": "ui-ux-polish",
-      "task_type": "planner",
-      "tags": [
-        "art-direction",
-        "design-tokens",
-        "frontend",
-        "interaction-design",
-        "ui-design",
-        "visual-system"
-      ],
-      "status": "draft",
-      "side_effects": "none",
-      "summary": "Builds a coherent, implementation-ready visual and interaction direction for a web interface."
-=======
-      "name": "interface-state-coverage-review",
-      "path": "skills/ui-ux-polish/interface-state-coverage-review/SKILL.md",
-      "category": "ui-ux-polish",
-      "task_type": "review",
-      "tags": [
-        "ui",
-        "ux",
-        "interface-states",
-        "user-flows",
-        "feedback",
-        "error-handling"
-      ],
-      "status": "draft",
-      "side_effects": "none",
-      "summary": "Reviews interfaces and user flows for missing, inconsistent, or poorly communicated states."
->>>>>>> theirs
-=======
-      "name": "repo-public-profile-polish",
-      "path": "skills/repo-readiness/repo-public-profile-polish/SKILL.md",
-      "category": "repo-readiness",
-      "task_type": "review",
-      "tags": [
-        "github",
-        "readme",
-        "repository-metadata",
-        "screenshots",
-        "demos",
-        "portfolio",
-        "first-impression"
-      ],
-      "status": "draft",
-      "side_effects": "network",
-      "summary": "Reviews a public repository's README, metadata, screenshots, demo links, and overall first-impression quality."
->>>>>>> theirs
-=======
-      "name": "repo-next-steps-review",
-      "path": "skills/repo-readiness/repo-next-steps-review/SKILL.md",
-      "category": "repo-readiness",
-      "task_type": "review",
-      "tags": [
-        "repo-review",
-        "project-health",
-        "next-steps",
-        "planning"
-      ],
-      "status": "draft",
-      "side_effects": "none",
-      "summary": "Reviews a repository's current state and recommends prioritized next steps."
->>>>>>> theirs
-=======
-      "name": "skill-quality-audit",
-      "path": "skills/skill-authoring/skill-quality-audit/SKILL.md",
-      "category": "skill-authoring",
-      "task_type": "review",
-      "tags": [
-        "agent-skills",
-        "quality",
-        "review",
-        "routing",
-        "portability"
-      ],
-      "status": "draft",
-      "side_effects": "none",
-      "summary": "Audits an Agent Skill for routing clarity, scope, executability, safety, portability, and repository consistency."
->>>>>>> theirs
-    }
-  ]
-}
+{"skills":[
+  {"name":"docs-discoverability-audit","path":"skills/docs-seo/docs-discoverability-audit/SKILL.md","category":"docs-seo","task_type":"review","tags":["documentation","seo","discoverability","information-architecture","internal-linking","technical-seo"],"status":"draft","side_effects":"none","summary":"Audits technical documentation for navigation, information architecture, internal linking, content findability, duplication, and technical SEO."},
+  {"name":"interface-state-coverage-review","path":"skills/ui-ux-polish/interface-state-coverage-review/SKILL.md","category":"ui-ux-polish","task_type":"review","tags":["ui","ux","interface-states","user-flows","feedback","error-handling"],"status":"draft","side_effects":"none","summary":"Reviews interfaces and user flows for missing, inconsistent, or poorly communicated states."},
+  {"name":"layout-art-direction","path":"skills/ui-ux-polish/layout-art-direction/SKILL.md","category":"ui-ux-polish","task_type":"review","tags":["art-direction","composition","graphic-design","layout","responsive-design","typography","ui-polish","visual-hierarchy"],"status":"draft","side_effects":"none","summary":"Reviews or develops intentional graphic layout and art direction using hierarchy, composition, rhythm, typography, imagery, and responsive behavior."},
+  {"name":"project-plan-reconciler","path":"skills/project-planning/project-plan-reconciler/SKILL.md","category":"project-planning","task_type":"review","tags":["dependencies","milestones","plan-drift","progress","project-planning","roadmap"],"status":"draft","side_effects":"none","summary":"Reconciles project plans and roadmaps with actual repository progress, identifies drift, and produces a corrected execution sequence."},
+  {"name":"repo-next-steps-review","path":"skills/repo-readiness/repo-next-steps-review/SKILL.md","category":"repo-readiness","task_type":"review","tags":["repo-review","project-health","next-steps","planning"],"status":"draft","side_effects":"none","summary":"Reviews a repository's current state and recommends prioritized next steps."},
+  {"name":"repo-public-profile-polish","path":"skills/repo-readiness/repo-public-profile-polish/SKILL.md","category":"repo-readiness","task_type":"review","tags":["github","readme","repository-metadata","screenshots","demos","portfolio","first-impression"],"status":"draft","side_effects":"network","summary":"Reviews a public repository's README, metadata, screenshots, demo links, and overall first-impression quality."},
+  {"name":"skill-quality-audit","path":"skills/skill-authoring/skill-quality-audit/SKILL.md","category":"skill-authoring","task_type":"review","tags":["agent-skills","quality","review","routing","portability"],"status":"draft","side_effects":"none","summary":"Audits an Agent Skill for routing clarity, scope, executability, safety, portability, and repository consistency."},
+  {"name":"ui-design-direction-builder","path":"skills/ui-ux-polish/ui-design-direction-builder/SKILL.md","category":"ui-ux-polish","task_type":"planner","tags":["art-direction","design-tokens","frontend","interaction-design","ui-design","visual-system"],"status":"draft","side_effects":"none","summary":"Builds a coherent, implementation-ready visual and interaction direction for a web interface."}
+]}
