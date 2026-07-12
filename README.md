@@ -106,6 +106,7 @@ Primary categories:
 
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 | [ui-design-direction-builder](skills/ui-ux-polish/ui-design-direction-builder/SKILL.md) | ui-ux-polish | planner | Builds a coherent, implementation-ready visual and interaction direction for a web interface. |
 =======
 | [interface-state-coverage-review](skills/ui-ux-polish/interface-state-coverage-review/SKILL.md) | ui-ux-polish | review | Reviews interfaces and user flows for missing, inconsistent, or poorly communicated states. |
@@ -113,6 +114,10 @@ Primary categories:
 >>>>>>> theirs
 =======
 | [repo-next-steps-review](skills/repo-readiness/repo-next-steps-review/SKILL.md) | repo-readiness | review | Reviews a repository's current state and recommends prioritized next steps. |
+
+>>>>>>> theirs
+=======
+| [skill-quality-audit](skills/skill-authoring/skill-quality-audit/SKILL.md) | skill-authoring | review | Audits an Agent Skill for routing clarity, scope, executability, safety, portability, and repository consistency. |
 
 >>>>>>> theirs
 <!-- Add skills here. Keep rows sorted alphabetically by skill name. -->

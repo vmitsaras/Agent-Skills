@@ -4,6 +4,7 @@
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
       "name": "ui-design-direction-builder",
       "path": "skills/ui-ux-polish/ui-design-direction-builder/SKILL.md",
       "category": "ui-ux-polish",
@@ -68,6 +69,22 @@
       "status": "draft",
       "side_effects": "none",
       "summary": "Reviews a repository's current state and recommends prioritized next steps."
+>>>>>>> theirs
+=======
+      "name": "skill-quality-audit",
+      "path": "skills/skill-authoring/skill-quality-audit/SKILL.md",
+      "category": "skill-authoring",
+      "task_type": "review",
+      "tags": [
+        "agent-skills",
+        "quality",
+        "review",
+        "routing",
+        "portability"
+      ],
+      "status": "draft",
+      "side_effects": "none",
+      "summary": "Audits an Agent Skill for routing clarity, scope, executability, safety, portability, and repository consistency."
 >>>>>>> theirs
     }
   ]
