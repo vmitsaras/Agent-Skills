@@ -103,6 +103,7 @@ Primary categories:
 | Skill | Category | Type | Summary |
 |---|---|---|---|
 | [docs-discoverability-audit](skills/docs-seo/docs-discoverability-audit/SKILL.md) | docs-seo | review | Audits technical documentation for navigation, information architecture, internal linking, content findability, duplication, and technical SEO. |
+| [implementation-plan-writer](skills/project-planning/implementation-plan-writer/SKILL.md) | project-planning | planner | Turns requirements and architecture decisions into an ordered implementation plan without writing code. |
 | [interface-state-coverage-review](skills/ui-ux-polish/interface-state-coverage-review/SKILL.md) | ui-ux-polish | review | Reviews interfaces and user flows for missing, inconsistent, or poorly communicated states. |
 | [layout-art-direction](skills/ui-ux-polish/layout-art-direction/SKILL.md) | ui-ux-polish | review | Reviews or develops intentional graphic layout and art direction using hierarchy, composition, rhythm, typography, imagery, and responsive behavior. |
 | [project-brief-builder](skills/project-planning/project-brief-builder/SKILL.md) | project-planning | generator | Converts a rough project idea into a structured brief with goals, users, constraints, success criteria, assumptions, and exclusions. |
