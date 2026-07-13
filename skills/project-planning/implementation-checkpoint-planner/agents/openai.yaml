@@ -1,0 +1,4 @@
+interface:
+  display_name: "Implementation Checkpoint Planner"
+  short_description: "Place review gates after high-risk work"
+  default_prompt: "Use $implementation-checkpoint-planner to add evidence-based review gates to this implementation plan."

@@ -102,13 +102,18 @@ Primary categories:
 
 | Skill | Category | Type | Summary |
 |---|---|---|---|
+| [agent-workstream-planner](skills/project-planning/agent-workstream-planner/SKILL.md) | project-planning | planner | Divides a project into coordinated workstreams with explicit ownership, dependencies, handoffs, collision controls, and integration checkpoints. |
+| [constraint-mapper](skills/project-planning/constraint-mapper/SKILL.md) | project-planning | planner | Maps technical, time, budget, platform, accessibility, privacy, and maintenance constraints to concrete planning decisions. |
 | [docs-discoverability-audit](skills/docs-seo/docs-discoverability-audit/SKILL.md) | docs-seo | review | Audits technical documentation for navigation, information architecture, internal linking, content findability, duplication, and technical SEO. |
+| [feature-priority-planner](skills/project-planning/feature-priority-planner/SKILL.md) | project-planning | planner | Ranks proposed features by user value, implementation cost, dependency impact, risk, and portfolio value. |
+| [implementation-checkpoint-planner](skills/project-planning/implementation-checkpoint-planner/SKILL.md) | project-planning | planner | Adds evidence-based review checkpoints after risky or foundational work before dependent tasks proceed. |
 | [implementation-order-planner](skills/project-planning/implementation-order-planner/SKILL.md) | project-planning | planner | Determines what should be built first using dependencies, uncertainty, integration risk, and validation value. |
 | [implementation-plan-writer](skills/project-planning/implementation-plan-writer/SKILL.md) | project-planning | planner | Turns requirements and architecture decisions into an ordered implementation plan without writing code. |
 | [interface-state-coverage-review](skills/ui-ux-polish/interface-state-coverage-review/SKILL.md) | ui-ux-polish | review | Reviews interfaces and user flows for missing, inconsistent, or poorly communicated states. |
 | [layout-art-direction](skills/ui-ux-polish/layout-art-direction/SKILL.md) | ui-ux-polish | review | Reviews or develops intentional graphic layout and art direction using hierarchy, composition, rhythm, typography, imagery, and responsive behavior. |
 | [milestone-planner](skills/project-planning/milestone-planner/SKILL.md) | project-planning | planner | Groups work into meaningful milestones with entry criteria, completion criteria, risks, dependencies, and expected outcomes. |
 | [mvp-scope-planner](skills/project-planning/mvp-scope-planner/SKILL.md) | project-planning | planner | Defines the smallest coherent MVP scope with explicit inclusions, exclusions, validation criteria, tradeoffs, and follow-on triggers. |
+| [plan-to-issues-converter](skills/project-planning/plan-to-issues-converter/SKILL.md) | project-planning | generator | Converts roadmap tasks into GitHub-issue-ready drafts with labels, dependencies, acceptance criteria, and definitions of done. |
 | [project-brief-builder](skills/project-planning/project-brief-builder/SKILL.md) | project-planning | generator | Converts a rough project idea into a structured brief with goals, users, constraints, success criteria, assumptions, and exclusions. |
 | [project-plan-reconciler](skills/project-planning/project-plan-reconciler/SKILL.md) | project-planning | review | Reconciles project plans with repository progress and produces a corrected execution sequence. |
 | [project-roadmap-builder](skills/project-planning/project-roadmap-builder/SKILL.md) | project-planning | planner | Produces a phased project roadmap with goals, deliverables, dependencies, acceptance criteria, risks, and checkpoints. |
@@ -116,7 +121,10 @@ Primary categories:
 | [repo-public-profile-polish](skills/repo-readiness/repo-public-profile-polish/SKILL.md) | repo-readiness | review | Reviews a public repository's README, metadata, screenshots, demo links, and overall first-impression quality. |
 | [requirements-gap-finder](skills/project-planning/requirements-gap-finder/SKILL.md) | project-planning | review | Reviews project briefs for missing requirements, unresolved decisions, contradictions, hidden assumptions, and vague acceptance criteria. |
 | [skill-quality-audit](skills/skill-authoring/skill-quality-audit/SKILL.md) | skill-authoring | review | Audits an Agent Skill for routing clarity, scope, executability, safety, portability, and repository consistency. |
+| [task-context-packager](skills/project-planning/task-context-packager/SKILL.md) | project-planning | generator | Creates the minimum evidence-backed context package an agent needs to complete one repository task. |
+| [task-dependency-mapper](skills/project-planning/task-dependency-mapper/SKILL.md) | project-planning | planner | Builds a task dependency graph and detects blockers, cycles, unnecessary coupling, and safe parallel work. |
 | [ui-design-direction-builder](skills/ui-ux-polish/ui-design-direction-builder/SKILL.md) | ui-ux-polish | planner | Builds a coherent, implementation-ready visual and interaction direction for a web interface. |
+| [user-flow-planner](skills/project-planning/user-flow-planner/SKILL.md) | project-planning | planner | Converts features into primary, secondary, failure, empty, loading, and recovery user flows before implementation. |
 <!-- Add skills here. Keep rows sorted alphabetically by skill name. -->
 
 ## Creating a new skill
