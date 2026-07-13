@@ -103,14 +103,18 @@ Primary categories:
 | Skill | Category | Type | Summary |
 |---|---|---|---|
 | [docs-discoverability-audit](skills/docs-seo/docs-discoverability-audit/SKILL.md) | docs-seo | review | Audits technical documentation for navigation, information architecture, internal linking, content findability, duplication, and technical SEO. |
+| [implementation-order-planner](skills/project-planning/implementation-order-planner/SKILL.md) | project-planning | planner | Determines what should be built first using dependencies, uncertainty, integration risk, and validation value. |
 | [implementation-plan-writer](skills/project-planning/implementation-plan-writer/SKILL.md) | project-planning | planner | Turns requirements and architecture decisions into an ordered implementation plan without writing code. |
 | [interface-state-coverage-review](skills/ui-ux-polish/interface-state-coverage-review/SKILL.md) | ui-ux-polish | review | Reviews interfaces and user flows for missing, inconsistent, or poorly communicated states. |
 | [layout-art-direction](skills/ui-ux-polish/layout-art-direction/SKILL.md) | ui-ux-polish | review | Reviews or develops intentional graphic layout and art direction using hierarchy, composition, rhythm, typography, imagery, and responsive behavior. |
+| [milestone-planner](skills/project-planning/milestone-planner/SKILL.md) | project-planning | planner | Groups work into meaningful milestones with entry criteria, completion criteria, risks, dependencies, and expected outcomes. |
+| [mvp-scope-planner](skills/project-planning/mvp-scope-planner/SKILL.md) | project-planning | planner | Defines the smallest coherent MVP scope with explicit inclusions, exclusions, validation criteria, tradeoffs, and follow-on triggers. |
 | [project-brief-builder](skills/project-planning/project-brief-builder/SKILL.md) | project-planning | generator | Converts a rough project idea into a structured brief with goals, users, constraints, success criteria, assumptions, and exclusions. |
 | [project-plan-reconciler](skills/project-planning/project-plan-reconciler/SKILL.md) | project-planning | review | Reconciles project plans with repository progress and produces a corrected execution sequence. |
 | [project-roadmap-builder](skills/project-planning/project-roadmap-builder/SKILL.md) | project-planning | planner | Produces a phased project roadmap with goals, deliverables, dependencies, acceptance criteria, risks, and checkpoints. |
 | [repo-next-steps-review](skills/repo-readiness/repo-next-steps-review/SKILL.md) | repo-readiness | review | Reviews a repository's current state and recommends prioritized next steps. |
 | [repo-public-profile-polish](skills/repo-readiness/repo-public-profile-polish/SKILL.md) | repo-readiness | review | Reviews a public repository's README, metadata, screenshots, demo links, and overall first-impression quality. |
+| [requirements-gap-finder](skills/project-planning/requirements-gap-finder/SKILL.md) | project-planning | review | Reviews project briefs for missing requirements, unresolved decisions, contradictions, hidden assumptions, and vague acceptance criteria. |
 | [skill-quality-audit](skills/skill-authoring/skill-quality-audit/SKILL.md) | skill-authoring | review | Audits an Agent Skill for routing clarity, scope, executability, safety, portability, and repository consistency. |
 | [ui-design-direction-builder](skills/ui-ux-polish/ui-design-direction-builder/SKILL.md) | ui-ux-polish | planner | Builds a coherent, implementation-ready visual and interaction direction for a web interface. |
 <!-- Add skills here. Keep rows sorted alphabetically by skill name. -->
