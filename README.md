@@ -137,6 +137,7 @@ Primary categories:
 | [task-dependency-mapper](skills/project-planning/task-dependency-mapper/SKILL.md) | project-planning | planner | Builds a task dependency graph and detects blockers, cycles, unnecessary coupling, and safe parallel work. |
 | [ui-design-direction-builder](skills/ui-ux-polish/ui-design-direction-builder/SKILL.md) | ui-ux-polish | planner | Builds a coherent, implementation-ready visual and interaction direction for a web interface. |
 | [user-flow-planner](skills/project-planning/user-flow-planner/SKILL.md) | project-planning | planner | Converts features into primary, secondary, failure, empty, loading, and recovery user flows before implementation. |
+| [user-recovery-flow-planner](skills/project-planning/user-recovery-flow-planner/SKILL.md) | project-planning | planner | Plans recovery paths for user mistakes, invalid input, failed requests, expired sessions, interrupted workflows, and uncertain outcomes. |
 <!-- Add skills here. Keep rows sorted alphabetically by skill name. -->
 
 ## Creating a new skill
