@@ -1,0 +1,4 @@
+interface:
+  display_name: "Before/After Diff Summary"
+  short_description: "Summarize noisy diffs as behavior changes"
+  default_prompt: "Use $before-after-diff-summary to explain this diff as clear before-and-after behavior changes."
