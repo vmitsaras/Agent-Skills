@@ -102,6 +102,7 @@ Primary categories:
 
 | Skill | Category | Type | Summary |
 |---|---|---|---|
+| [accessibility-validation-planner](skills/frontend-a11y/accessibility-validation-planner/SKILL.md) | frontend-a11y | planner | Plans accessibility validation across semantic, keyboard, focus, screen-reader, zoom, contrast, motion, and automated checks. |
 | [agent-workstream-planner](skills/project-planning/agent-workstream-planner/SKILL.md) | project-planning | planner | Divides a project into coordinated workstreams with explicit ownership, dependencies, handoffs, collision controls, and integration checkpoints. |
 | [architecture-decision-planner](skills/project-planning/architecture-decision-planner/SKILL.md) | project-planning | planner | Identifies pre-implementation architecture decisions and prepares alternatives, trade-offs, criteria, evidence needs, owners, and deadlines. |
 | [constraint-mapper](skills/project-planning/constraint-mapper/SKILL.md) | project-planning | planner | Maps technical, time, budget, platform, accessibility, privacy, and maintenance constraints to concrete planning decisions. |
