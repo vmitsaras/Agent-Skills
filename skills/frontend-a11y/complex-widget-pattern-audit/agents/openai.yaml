@@ -1,0 +1,4 @@
+interface:
+  display_name: "Complex Widget Pattern Audit"
+  short_description: "Audit accessible composite widget patterns"
+  default_prompt: "Use $complex-widget-pattern-audit to review this custom widget’s semantics, keyboard behavior, focus model, selection, and announcements."

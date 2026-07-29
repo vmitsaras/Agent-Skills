@@ -1,0 +1,4 @@
+interface:
+  display_name: "Content and Cognitive Accessibility Audit"
+  short_description: "Audit content clarity and cognitive accessibility"
+  default_prompt: "Use $content-cognitive-accessibility-audit to audit this interface content for clarity and cognitive accessibility."

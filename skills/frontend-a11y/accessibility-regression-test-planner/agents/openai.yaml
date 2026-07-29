@@ -1,0 +1,4 @@
+interface:
+  display_name: "Accessibility Regression Test Planner"
+  short_description: "Plan durable accessibility regression checks"
+  default_prompt: "Use $accessibility-regression-test-planner to turn confirmed accessibility findings into a risk-based automated and manual regression test plan."
