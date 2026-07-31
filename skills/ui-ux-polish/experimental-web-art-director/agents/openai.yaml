@@ -1,0 +1,4 @@
+interface:
+  display_name: "Experimental Web Art Director"
+  short_description: "Direct bold, usable web experiences"
+  default_prompt: "Use $experimental-web-art-director to create a distinctive, feasible art direction for this website."
