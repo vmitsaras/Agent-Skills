@@ -1,0 +1,4 @@
+interface:
+  display_name: "Subagent Delegation Router"
+  short_description: "Route complex work to the smallest useful agent team"
+  default_prompt: "Use $subagent-delegation-router to decompose this task, delegate independent work when useful, and synthesize the result."
